@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "CalorieAI",
+    "slug": "CalorieAI",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.webmigratesmj.CalorieAI"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "12e15aa5-ffa5-4401-8dcd-cdecf4ea3082"
+      }
+    }
+  }
+}
