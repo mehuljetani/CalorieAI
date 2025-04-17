@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-const genAi = new GoogleGenerativeAI("API-KEY" as string);
+const genAi = new GoogleGenerativeAI("" as string);
 
 export async function POST(req: Request): Promise<Response> {
   try {
